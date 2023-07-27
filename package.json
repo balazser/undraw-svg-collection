@@ -1,0 +1,11 @@
+{
+  "name": "undraw-svg-collection",
+  "version": "1.0.0",
+  "description": "A collection of customizable SVG illustrations from unDraw, optimized for use in web projects.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/balazser/undraw-svg-collection.git"
+  },
+  "author": "balazser",
+  "license": "MIT"
+}
